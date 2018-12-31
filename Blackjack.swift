@@ -1,7 +1,5 @@
 /*
-AliceZU2A1Q4
 Alice Zhou
-For: Mrs. Harris
 April 9th, 2018
 Blackjack: this program creates and operates an edited version of the famous card game Blackjack.
 Revision: None
